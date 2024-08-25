@@ -20,9 +20,9 @@ global.PM_BLOCKER = false;
 global.CHATBOT = false;
 
 
-global.Owner = ["2348074439626"]; //like 2347080968564 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "♱MAKINO-MD-V2♱♡⃤";
+global.Owner = ["2347059092107"]; //like 2347080968564 
+global.OwnerName =  "TRIPLE X";
+global.BotName = "♱ULTRA INSTINCT♱♡⃤";
 global.packname = "♱MAKINO-MD-V2♱♡⃤";                             //Do not change.
 global.author = "TAIRA MAKINO";                               //Do not change.
 global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
@@ -37,7 +37,7 @@ global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
 global.Thumb = fs.readFileSync("./Assets/pic7.jpg");
 global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
 global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
-global.OwnerNumber = [""] //Ignore,Unused
+global.OwnerNumber = ["2347059092107"] //Ignore,Unused
 
 //
 global.ntilinkytvid = []
@@ -71,7 +71,7 @@ global.mess = {
     botonly: 'Only the *Bot itself* can use this command!',
     waiting: 'Wait a lil bit (¬_¬)ﾉ...',
     nolink: ' provide me *link*',
-    error: 'An error occurd!',
+    error: 'An error occurred!',
     banned: 'You cant use the commands because you Are *Banned*',
     bangc: 'This Group is *Banned* from using Commands!',
     nonsfw: 'Dont be a pervert,idiot! This is not a NSFW enabled group!'
