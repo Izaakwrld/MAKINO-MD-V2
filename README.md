@@ -42,7 +42,7 @@ If you create a clone of my bot then Don't forget to give ***Credit***
 1. Fork This Repository 
 2. Update [`config.js`] if you want more functions or skip
 ```js
-global.Owner = ["2347080968564"]; 
+global.Owner = ["2347059092107"]; 
 global.OwnerName = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
 global.BotName = "♱MAKINO-MD-V2♱♡⃤";
 ```
